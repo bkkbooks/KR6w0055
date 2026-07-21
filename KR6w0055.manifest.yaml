@@ -18,7 +18,7 @@ editions:
 - short: D
 assets:
   parts:
-  - {seq: 0, filename: KR6w0055_000.yaml, hash: 'sha256:4996e00137c9c7f9064e113e39e8c94855ab826909ff576773ac5f738c48bb80'}
+  - {seq: 0, filename: KR6w0055_000.yaml, hash: 'sha256:9548fcb76f75120445f5bc70c6a7d176e52b38fe6d7c4286384c901c284b721b'}
   - {seq: 1, filename: KR6w0055_001.yaml, hash: 'sha256:5c74c9b5596d5835c62ad37199ec38cd1cd46d95ef4e8388ee02587c176c4ffa'}
   - {seq: 2, filename: KR6w0055_002.yaml, hash: 'sha256:f8b0050ce5a5fac2fb811d30657484080fe331f09362d943fc9d3922f2e0e664'}
   - {seq: 3, filename: KR6w0055_003.yaml, hash: 'sha256:b749ab32fef5b951e0db8dc5651c958d70c00e5abbcd3220d2abb40012fff498'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 9, filename: KR6w0055_009.yaml, hash: 'sha256:61d8b6b892be81d67e65fb27e0d7a6776fe8d609e8194d4f5fc3d1e2cf921221'}
   - {seq: 10, filename: KR6w0055_010.yaml, hash: 'sha256:8f502ea65283766b016d162fda24d282852c1406f8b20a3e373870c7fd06b64b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6w0055_000.markers.yaml, hash: 'sha256:266a917bb9e78c508ba46f0fee61e5550cadf7ee10f41f5c8ebf8b4c81a544e5'}
+  - {seq: 0, role: markers, filename: assets/KR6w0055_000.markers.yaml, hash: 'sha256:cece326348e6517f9407732b734f4b42d9ad7f72f90a6120c0824acc5a997091'}
   - {seq: 1, role: markers, filename: assets/KR6w0055_001.markers.yaml, hash: 'sha256:f4af4ae157f42fbe075141fb57d6f75b99e2914be8d79b151818c6998938df5e'}
   - {seq: 2, role: markers, filename: assets/KR6w0055_002.markers.yaml, hash: 'sha256:926e6336da12d22b3e99fdfd189a9ccdb00aea9925c5570deea19bb06ef5f3da'}
   - {seq: 3, role: markers, filename: assets/KR6w0055_003.markers.yaml, hash: 'sha256:5e28fc38b48f409584d46f7f3cbb58c11bc58a50a1363bb3be58a73885bbfd9e'}
@@ -46,7 +46,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0055_D_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -56,7 +56,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0055_D_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 聞啟祥大晙序
@@ -66,7 +66,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0055_D_000-mulu-3
     span:
-    - front
+    - body
     - 764
     - 764
   label: 陳昌遇廣㴨序
@@ -76,7 +76,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0055_D_000-mulu-4
     span:
-    - front
+    - body
     - 1318
     - 1318
   label: 目錄
@@ -4142,7 +4142,7 @@ table_of_contents:
   label: 似𢜤頂墮
   type: mulu
   level: 1
-hash: sha256:334fb52b0db333eaad669aa81d1c76d074a0d9ae77a062137ba1585bc2fe0a16
+hash: sha256:4c8e306cb61722f126559526f234fc7e57c0c6a03a659f6adf346586ab09f2df
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
